@@ -1,0 +1,6 @@
+.heart-icon.selected {
+  fill: var(--marvel-red);
+}
+.heart-icon.unselected {
+  fill: var(--color-light);
+}
