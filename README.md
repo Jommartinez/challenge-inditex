@@ -74,6 +74,10 @@ Además de estas carpeta, en la raiz del proyecto tenemos estos archivos a desta
 ## Problemas en el desarrollo
 
 La API de Marvel parece que está inestable y los tiempos de respuesta son muy elevados. He probado tanto desde POSTMAN como desde su propia API interactiva y estoy obteniendo el mismo problema. Los tiempos de espera son de aproximadamente 2 minutos para characters y de 20-30 segundos para comics, y además, cuando supera los 2 minutos de tiempo corta la conexión con el siguiente error:
+<image src="src/assets/error.png">
 
- <image src="src/assets/error.png">
- <image src="src/assets/time.png">
+Aqui se puede ver el tiempo que me tarda una respuesta en Thunder client (similar a postman)
+<image src="src/assets/time.png">
+
+Y aqui el tiempo que tarda dentro de la propia web de la api.
+<image src="src/assets/api-interactiva.png">
