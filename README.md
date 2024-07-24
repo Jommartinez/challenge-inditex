@@ -1,4 +1,4 @@
-# Challenge Zara Marvel
+# Challenge Inditex Marvel
 
 Se trata de una aplicación web donde podemos ver inicialmente un listado de 50 personajes de Marvel. Y si pulsamos en el icono del corazón que hay a la derecha en el Header podemos ver los personajes que tenemos guardados en favoritos en caso de tener guardados.
 
@@ -18,8 +18,8 @@ Además tenemos una segunda vista en la que si hacemos click en la imagen de cua
 Clonamos y accedemos al repositorio
 
 > ```console
->  $ git clone https://github.com/Jommartinez/challenge-flat101.git
->  $ cd challenge-flat101
+>  $ git clone https://github.com/Jommartinez/challenge-inditex.git
+>  $ cd challenge-inditex
 > ```
 
 Instalamos dependencias e iniciamos el proyecto
@@ -37,7 +37,7 @@ Para ejecutar los test utilizamos el siguiente comando
 
 ## Demo del challenge
 
-El proyecto ha sido desplegado en la siguiente url para fines de demostración : https://challenge-zara-marvel.vercel.app/
+El proyecto ha sido desplegado en la siguiente url para fines de demostración : https://challenge-inditex-theta.vercel.app/
 
 ## Jerarquía de carpetas
 
